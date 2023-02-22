@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(60, 60, 60);
+      font-family: 'Open Sans', sans-serif;
+      color: rgb(255, 255, 255);
+      text-align: center;
+    }
+
+
+.panel {
+    background-color: rgb(40, 40, 40);
+    border-radius: 20px; 
+    padding: 10px; 
+    width: 600px;
+    height: 700px;
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+  }
+
+.profile-picture{
+    border-radius: 50%; 
+  }
